@@ -25,7 +25,7 @@ Note that the terms :math:`a_1, a_2, a_3,\dots` of a sequence need not be distin
 
 .. admonition:: Figure                
 
-        .. plot:: ./pyplots/sequences.png
+        .. plot:: pyplots/sequences.png
 
 Sequences can be finite too.
 
