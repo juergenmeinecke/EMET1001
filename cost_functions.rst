@@ -96,7 +96,7 @@ but the last term is equal to zero because :math:`TFC` is just a constant functi
 and it follows that marginal cost are equal to the slope of the :math:`TC` (which we knew already) and also are equal to the slope of the :math:`TVC`.
 
 ============================================================
-Relationship between :math:`MC` and :math:`ATC`
+Relationship between Marginal Cost and Average Total Cost
 ============================================================
 
 Recall that :math:`ATC(q) := TC(q)/q`. We want to study the relationship between various cost functions at the minimum of the :math:`ATC`. Let's start by deriving that minimum. To find the minimum, we look at the first order necessary condition.
